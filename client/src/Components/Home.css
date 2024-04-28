@@ -1,0 +1,29 @@
+/* Home.css */
+
+/* Center align text in table headers */
+.table thead tr th {
+  text-align: center;
+}
+
+/* Add vertical and horizontal lines to table cells */
+.table th,
+.table td {
+  border: 1px solid #dee2e6; /* Adjust color and thickness as needed */
+  padding: 8px; /* Adjust padding as needed */
+}
+
+/* Add border to table header row */
+.table thead th {
+  border-top: 2px solid #dee2e6; /* Adjust color and thickness as needed */
+  border-bottom: 2px solid #dee2e6; /* Adjust color and thickness as needed */
+}
+
+/* Add border to table body rows */
+.table tbody td {
+  border-top: 1px solid #dee2e6; /* Adjust color and thickness as needed */
+}
+
+/* Optional: Hover effect for table rows */
+.table tbody tr:hover {
+  background-color: #f5f5f5; /* Adjust background color as needed */
+}

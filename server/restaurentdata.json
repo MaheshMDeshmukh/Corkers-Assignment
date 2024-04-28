@@ -1,0 +1,80 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Bella Italia",
+      "location": "123 Main Street, Anytown, USA",
+      "cuisine": "Italian",
+      "specialty_dish": "Spaghetti Carbonara",
+      "price_range": "$$",
+      "description": "Bella Italia offers authentic Italian cuisine in a cozy atmosphere. With a menu boasting traditional dishes like pizza, pasta, and risotto, as well as a selection of fine wines, it's the perfect spot for a casual dinner or a special celebration."
+    },
+    {
+      "id": 2,
+      "name": "The Steakhouse",
+      "location": "777 Ribeye Road, Meatville, USA",
+      "cuisine": "Steakhouse",
+      "specialty_dish": "Filet Mignon .",
+      "price_range": "$$$",
+      "description": "The Steakhouse is a premier destination for steak lovers, offering a range of cuts cooked to perfection. From juicy ribeyes to tender filet mignon, each steak is grilled to order and served with your choice of sides. With an upscale atmosphere and attentive service, it's the ideal spot for a special meal."
+    },
+  
+        {
+          "id": 3,
+          "name": "Sushi Zen",
+          "location": "456 Sushi Street, Fishville, USA",
+          "cuisine": "Japanese",
+          "specialty_dish": "Sashimi Platter",
+          "price_range": "$$$",
+          "description": "Sushi Zen offers an exquisite dining experience with a focus on traditional Japanese cuisine. From fresh sashimi to perfectly rolled sushi, each dish is crafted with care and precision. With a serene ambiance and impeccable service, it's the perfect place to indulge in the flavors of Japan."
+        },
+        {
+          "id": 4,
+          "name": "La Piazza",
+          "location": "789 Pizza Place, Pizzatown, USA",
+          "cuisine": "Pizza",
+          "specialty_dish": "Margherita Pizza",
+          "price_range": "$$",
+          "description": "La Piazza is a cozy pizzeria serving up authentic Italian pizzas with a modern twist. From classic Margherita to gourmet creations, each pizza is handcrafted with fresh ingredients and baked to perfection in a wood-fired oven. With a casual atmosphere and friendly staff, it's the perfect spot for a slice of Italy."
+        },
+        {
+          "id": 5,
+          "name": "Taco Fiesta",
+          "location": "321 Taco Terrace, Mexicoville, USA",
+          "cuisine": "Mexican",
+          "specialty_dish": "Tacos al Pastor",
+          "price_range": "$",
+          "description": "Taco Fiesta brings the flavors of Mexico to your table with a vibrant and delicious menu. From street-style tacos to hearty burritos, each dish is bursting with authentic Mexican flavors and spices. With a festive atmosphere and a wide selection of tequilas and margaritas, it's the ultimate destination for a fiesta."
+        },
+        {
+        
+              "id": 6,
+              "name": "Spice Delight",
+              "location": "456 Curry Lane, Spice City, India",
+              "cuisine": "Indian",
+              "specialty_dish": "Butter Chicken",
+              "price_range": "$$",
+              "description": "Spice Delight offers a delightful array of Indian delicacies with a focus on rich flavors and aromatic spices. From creamy butter chicken to flavorful biryanis, each dish is prepared with passion and tradition. With a cozy ambiance and attentive service, it's the perfect place to experience the essence of Indian cuisine."
+            },
+            {
+              "id": 7,
+              "name": "Tandoori Flames",
+              "location": "789 Naan Street, Tandoor Town, India",
+              "cuisine": "Indian",
+              "specialty_dish": "Tandoori Chicken",
+              "price_range": "$$",
+              "description": "Tandoori Flames is renowned for its authentic Tandoori dishes cooked in a traditional clay oven. From succulent tandoori chicken to mouthwatering kebabs, each dish is marinated in a blend of spices and cooked to perfection. With a vibrant atmosphere and live music performances, it's the ultimate destination for Indian food lovers."
+            },
+            {
+              "id": 8,
+              "name": "Namaste India",
+              "location": "123 Masala Street, Namaste City, India",
+              "cuisine": "Indian",
+              "specialty_dish": "Paneer Tikka",
+              "price_range": "$$",
+              "description": "Namaste India welcomes you with the warm hospitality and flavors of authentic Indian cuisine. From fragrant curries to crispy dosas, each dish is a celebration of India's diverse culinary heritage. With a relaxed ambiance and friendly staff, it's the perfect spot to savor the taste of India."
+            }
+          ]
+        }
+        
+  
